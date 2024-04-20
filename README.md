@@ -1,4 +1,4 @@
-<h1 align="center">Whats'Popping 👋, I'm Inderpeet Singh</h1>
+<h1 align="center">What's Popping 👋, I'm Inderpeet Singh</h1>
 <h3 align="center">A passionate Full Stack Web developer from Indiana</h3>
 <img align="right" alt = "codeing" width "400" src "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsindi22" alt="itsindi22" /></a> </p>
 
-- 🌱 I’m currently learning **Java Scripit**
+- 🌱 I’m currently learning **Java Script**
 
 - 📫 How to reach me **Inderpreet2004123@gmail.com**
 
