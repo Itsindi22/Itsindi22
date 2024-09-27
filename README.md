@@ -1,4 +1,4 @@
-<h1 align="center">What's Popping 👋, I'm Inderpeet Singh</h1>
+<h1 align="center">HI 👋, I'm Inderpeet Singh</h1>
 <h3 align="center">A passionate Full Stack Web developer from Indiana</h3>
 <img align="right" alt = "codeing" width "400" src "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
